@@ -26,10 +26,15 @@ This project demonstrates how **machine learning** can be applied to real-world 
 ## Project Structure
 
 ├── app.py # Main Streamlit app
+
 ├── Car Price Prediction ML Model.ipynb # Jupyter Notebook (EDA & model training)
+
 ├── model.pkl # Trained ML model
+
 ├── Cardetails.csv # Dataset
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Documentation
 
 
